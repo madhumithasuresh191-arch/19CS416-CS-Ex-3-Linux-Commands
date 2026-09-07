@@ -1,4 +1,5 @@
-<img width="318" height="121" alt="Screenshot 2026-09-05 125903" src="https://github.com/user-attachments/assets/b40d0c88-1e2c-40bd-9406-bae2c06d155c" /># 19CS416-CS-Ex-3-Linux-Commands
+## 19CS416-CS-Ex-3-Linux-Commands
+Linux is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
 ## Name: S Madhumitha
 ## Reg no:212225040217
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
